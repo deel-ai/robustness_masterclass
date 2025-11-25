@@ -6,11 +6,7 @@ This repository gathers materials from the DEEL masterclass to acquire theoretic
 
 This repository contains the tutorial notebooks for the following topics:
 
--
-
--
-
--
+- Introduce adversarial attacks and 1-Lipschitz networks on MNIST dataset
 
 You can either work locally by cloning the project or open the notebooks following the colab links.
 
