@@ -1,8 +1,6 @@
 # 🚀 Welcome to the **Robustness DEEL Master Class** !
 
-#When a Machine Learning (ML) model is deployed, we may perform inference on a wide variety of data, in particular data the model has not been trained to predict on, thus producing erroneous or even nonsense predictions. *Out-of-Distribution (OOD) Detection* seeks precisely to detect this data, so that we avoid performing inference on it, or we warn the user about the untrustworhiness of the model predictions. *Post-hoc OOD detection* is a series of OOD detection techniques that use a trained ML model in order to detect OOD data, without changing the predictive model's weights or training auxiliar model.
-
-This repository gathers materials from the DEEL master class to acquire theoretical and practical knowledge about Robust by-design models and training . Through these resources, you will discover how to train a 1-Lipschitz neural network, explore the robustness-accuracy tradeoff. You will learn to transform a classical Torch neural network into a TorchLip one, and develop the skills to leran and enhance robustness for real-world applications.
+This repository gathers materials from the DEEL masterclass to acquire theoretical and practical knowledge about Robust by-design models and training. Through these resources, you will discover how to train a 1-Lipschitz neural network and explore the robustness-accuracy tradeoff. You will learn to transform a classical PyTorch neural network into a TorchLip one, and develop the skills to leran and enhance robustness for real-world applications.
 
 ## 👨‍🎓 Tutorial Notebooks
 
