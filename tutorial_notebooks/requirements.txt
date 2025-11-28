@@ -1,0 +1,6 @@
+notebook
+torch
+torchvision
+torchattacks
+deel-torchlip
+matplotlib
